@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBunding</string>
+    <string name="first_number_Edt">Enter the First Number</string>
+    <string name="Second_number_edt">Enter the Second Number</string>
+    <string name="addition_edt">Addition</string>
+    <string name="employe_Edt"><b>Employee Details</b></string>
+</resources>
